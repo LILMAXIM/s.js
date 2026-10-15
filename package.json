@@ -1,0 +1,12 @@
+
+{
+  "name": "group-alarm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node s.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
