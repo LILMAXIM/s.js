@@ -1,5 +1,4 @@
 
-
 {
   "name": "group-alarm",
   "version": "1.0.0",
@@ -8,6 +7,7 @@
     "start": "node s.js"
   },
   "dependencies": {
-    "ws": "^8.18.0"
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
   }
 }
